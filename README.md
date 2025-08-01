@@ -27,7 +27,10 @@ This tool helps you **simulate heavy upload traffic** to:
 
 ---
 
-## 📂 Usage
+## 📂 Usage and download
+```bash
+bash <(curl -Ls https://raw.githubusercontent.com/hoseinlolready/Fake-Upload/refs/heads/main/Install.sh )
+```
 
 ```bash
 python3 fake_uploader.py [--host <host>] [--port <port>] [--size <MB>] [--interval <seconds>]
